@@ -1,2 +1,2 @@
 # Astrodynamics
-Set of programming tools to perform research on orbital mechanics
+Set of scripts to perform research on orbital mechanics
